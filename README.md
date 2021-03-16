@@ -1,5 +1,5 @@
 # Make a streaming Twitter sentiment analysis system
-##Laboratory 1 requirements
+## Laboratory 1 requirements
 
 - You will have to read 2 SSE streams of actual Twitter API tweets in JSON format.
 - For Elixir use this project to read SSE: https://github.com/cwc/eventsource_ex
